@@ -1,1 +1,2 @@
-edited
+Hello git!
+Hello, world
